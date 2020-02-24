@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Test1",
+    "owner": "Meghashree Vasista",
+    "description": "Test threat model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Diag1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Appflow team"
+  }
+}
